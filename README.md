@@ -17,4 +17,8 @@ yarn start
 ```
 
 ## Visualization Example
+![flight_delay_vis](https://user-images.githubusercontent.com/35086055/44429667-350b9980-a566-11e8-8080-b184c7c3db93.png)
 
+## Data Sources
+Flight Delay Data:
+https://www.kaggle.com/usdot/flight-delays
