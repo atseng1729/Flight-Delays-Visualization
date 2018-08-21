@@ -1,5 +1,5 @@
 # Flight Delays Visualization
-An almost inevitable part of modern travel, flight delays have become a growing problem in every individual's life as the world becomes more connected. This visualization attempts to find the best airline/airport/times to fly by examining their effects on the number of flight delays. The visualization shows that larger airports and early morning flights (6 to 8 am) have proportionally fewer delays. In addition, Virgin America has the fewest delays of all the airlines.
+An almost inevitable part of modern travel, flight delays have become a growing problem in every individual's life as the world becomes more connected. This visualization attempts to find the best airline/airport/times to fly by examining their effects on the number of flight delays. The visualization shows that larger airports and early morning flights (6 to 8 am) have proportionally fewer delays. In addition, Virgin America has the fewest delays of all the airlines. This project is a group assignment for the CMSC 23900 course at the University of Chicago and the repository is forked from my project partner's account.
 
 ## Setup
 
