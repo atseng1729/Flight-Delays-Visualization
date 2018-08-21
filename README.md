@@ -1,6 +1,5 @@
-# Flight Delays Data Visualization
-
-This data visualization was a group project for the CMSC 23900 course at the University of Chicago (Data Visualization). Using the dataset provided [here](https://www.kaggle.com/usdot/flight-delays), we created this visualization to help others find out how to avoid flight delays. I forked the original repo that was under my project partner's account in order to provide a more informative README and to remove extra files like writeups and example code.
+# Flight Delays Visualization
+An almost inevitable part of modern travel, flight delays have become a growing problem in every individual's life as the world becomes more connected. This visualization attempts to find the best airline/airport/times to fly by examining their effects on the number of flight delays. The visualization shows that larger airports and early morning flights (6 to 8 am) have proportionally fewer delays. In addition, Virgin America has the fewest delays of all the airlines.
 
 ## Setup
 
@@ -16,4 +15,6 @@ yarn
 # then
 yarn start
 ```
+
+## Visualization Example
 
